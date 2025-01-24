@@ -63,8 +63,3 @@ Sistem SafeGas terdiri dari beberapa layer:
 
 ---
 
-## **Cara Menjalankan Proyek**
-1. **Kloning Repositori**  
-   ```bash
-   git clone https://github.com/username/SafeGas.git
-   cd SafeGas
